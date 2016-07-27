@@ -1,4 +1,3 @@
-sureshgv.org
-============
+Repo for Web Site and Blog.
 
-This is repository for my website/blog
+WebSite Link: http://www.sureshgv.org/
